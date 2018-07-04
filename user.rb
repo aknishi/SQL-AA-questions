@@ -67,5 +67,13 @@ class User
     QuestionFollow.followed_questions_for_user_id(@id)
   end
   
+  def average_karma
+    
+  end
+  
   
 end
+
+
+SELECT
+AVR(*)
